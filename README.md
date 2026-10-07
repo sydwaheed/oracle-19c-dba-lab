@@ -48,7 +48,7 @@ The scripts are intentionally validation focused. Destructive disk operations su
 
 Medium profile: https://medium.com/@sydwaheed
 
-The direct Part 1 article link will be added after publication.
+Part 1: [Building an Oracle 19c DBA Lab from Scratch on Oracle Linux 8.10](https://medium.com/@sydwaheed/oracle-19c-dba-lab-oracle-linux-8-10-093abb9f0edf)
 
 ## Notes
 
