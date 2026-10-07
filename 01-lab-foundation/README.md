@@ -55,3 +55,8 @@ source oracle-env.sh
 ## Safety note
 
 The scripts in this folder do not partition disks or create filesystems. Commands such as `parted` and `mkfs.xfs` modify storage and should only be run after the target devices have been verified.
+
+
+## Article
+
+[Building an Oracle 19c DBA Lab from Scratch on Oracle Linux 8.10](https://medium.com/@sydwaheed/oracle-19c-dba-lab-oracle-linux-8-10-093abb9f0edf)
