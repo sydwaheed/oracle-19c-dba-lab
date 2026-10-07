@@ -1,4 +1,4 @@
-# Oracle ACE Lab Environment
+# Oracle 19c DBA Lab Environment
 # Source this file from bash:
 # source oracle-env.sh
 
