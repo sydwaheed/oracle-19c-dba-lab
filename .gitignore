@@ -1,0 +1,31 @@
+# Oracle software and patch media
+*.zip
+*.iso
+*.rpm
+*.tar
+*.tar.gz
+
+# Logs and generated diagnostics
+*.log
+*.trc
+*.aud
+
+# Database exports and backups
+*.dmp
+*.bak
+*.bkp
+
+# Response files may contain credentials
+*.rsp
+
+# Wallets, keys, and certificates
+cwallet.sso
+ewallet.p12
+*.p12
+*.jks
+*.pem
+*.key
+
+# Local environment files
+.env
+.env.*
